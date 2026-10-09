@@ -3,7 +3,7 @@ Discrete PD & duty cycles for ESP32 automated small-scale irrigation
 This project compares threshold-based irrigation control against discrete PD with optimized duty cycles to reduce water consumption.
 
 LINKS: <br>
-Summary: [Google Drive]()<br>
+Summary: [Google Drive](https://drive.google.com/file/d/11pVFdfzkQdqfgXTPnlWxrb4dMgaT-5HM/view?usp=sharing)<br>
 Full Document: [Google Drive](https://drive.google.com/file/d/1opUbFz7Rgay45Kw-4ME0JdJNk1bW7KVy/view?usp=sharing) <br>
 Performance demonstration: [Google Drive](https://drive.google.com/file/d/1UBHNy69AnGAdbu0q8fOJZ9K0pUszHvJz/view?usp=sharing) <br>
 
