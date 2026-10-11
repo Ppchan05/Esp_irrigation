@@ -1,4 +1,8 @@
 Discrete PD & duty cycles for ESP32 automated small-scale irrigation
+Author: Yevhen Shiuiev <br>
+Affiliation: Undergraduate student in Automation and Computer-Integrated technologies <br>
+University: Kyiv National University of Construction and Architecture (KNUCA) <br>
+Contact: shliuiev_yv-2024@knuba.edu.ua <br>
 
 This project compares threshold-based irrigation control against discrete PD with optimized duty cycles to reduce water consumption.
 
