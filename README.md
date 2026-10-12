@@ -1,4 +1,5 @@
 Discrete PD & duty cycles for ESP32 automated small-scale irrigation
+
 Author: Yevhen Shliuiev <br>
 Affiliation: Undergraduate Student in Automation and Computer-Integrated Technologies <br>
 University: Kyiv National University of Construction and Architecture (KNUCA) <br>
